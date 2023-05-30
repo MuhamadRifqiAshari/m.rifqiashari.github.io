@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio-tailwind-css-main"
+		},
+		{
+			"path": "../../Videos/najwannr.github.io-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M.RIFQIASHARIgithub.io-master"
+	}
+}
